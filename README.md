@@ -40,7 +40,7 @@
 <!-- 火影忍者动图区域 -->
 ## 🍥 Naruto
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohu/mohu/main/me.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/zhanshuo-art/zhanshuo-art/refs/heads/main/Naruto.jpg" width="300" />
 </p>
 
 
