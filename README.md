@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zhanshuo-art</h1>
-<h3 align="center">A passionate developer from M78星云</h3>
+<h3 align="center">A passionate developer from M78 Nebula</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;AI+and+Data+Enthusiast" />
