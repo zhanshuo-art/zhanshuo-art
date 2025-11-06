@@ -68,20 +68,7 @@
 <br/>
 
 
-<!--
-  自定义动图说明：
-  如果你想替换上面的动图，可以访问以下网站：
-  - Giphy: https://giphy.com/search/naruto
-  - Tenor: https://tenor.com/search/naruto-gifs
-  - Pinterest: 搜索 "Naruto GIF"
 
-  替换方法：
-  1. 找到你喜欢的GIF
-  2. 右键点击 → 复制图片地址
-  3. 替换上面代码中的 src="这里的链接"
--->
-
----
 
 <!-- GitHub统计数据区域 -->
 ## 📊 我的GitHub统计
@@ -116,34 +103,8 @@
 
 ---
 
-<!-- 访问计数器 -->
-## 👀 访客统计
-
-![访问量](https://komarev.com/ghpvc/?username=zhanshuo-art&color=F85D7F&style=flat-square&label=访问量)
-
----
-
-<!-- 社交链接区域 -->
-## 🔗 联系我
-
-<!-- 根据需要添加你的社交媒体链接 -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhanshuo-art)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhanshuo.hu@ruc.edu.cn)
-
----
 
 <!-- 页脚引用 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
 </div>
-
-<!--
-===========================================
-   最后提醒：
-   1. 记得替换所有"zhanshuo-art"为你的GitHub用户名
-   2. 可以根据需要修改邮箱地址
-   3. 可以自由调整颜色主题和布局
-   4. 保存后提交到GitHub仓库即可自动显示
-===========================================
--->
-
