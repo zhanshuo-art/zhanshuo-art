@@ -39,10 +39,9 @@
 
 <!-- 火影忍者动图区域 -->
 ## 🍥 Naruto
-<img src=["https://media.tenor.com/LBW1t6tAyHEAAAAC/naruto-sage-mode.gif"](https://pic3.zhimg.com/v2-a26d7705ef9fd1560edbbf8f6bd4d3b4_1440w.jpg) width="800"/>
-
-<br/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohu/mohu/main/me.jpg" width="300" />
+</p>
 
 
 ### 📊 GitHub Stats
