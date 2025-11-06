@@ -70,41 +70,29 @@
 
 
 
-<!-- GitHub统计数据区域 -->
-## 📊 我的GitHub统计
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<!-- GitHub统计卡片 - 显示star、commit等数据 -->
-![GitHub统计](https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhanshuo-art&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<!-- 连续提交记录 -->
-![连续提交](https://github-readme-streak-stats.herokuapp.com/?user=zhanshuo-art&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
-
-<!-- 最常用的编程语言 -->
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
-
----
-
-<!-- 技能标签区域 -->
-## 🛠️ 技能与工具
-
-<!-- 编程语言图标 -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- 开发工具图标 -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,git,linux,vscode" />
+</p>
 
-<!-- 页脚引用 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+---
 
-</div>
+### 🌀 Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
