@@ -39,7 +39,7 @@
 <!-- 火影忍者动图区域 -->
 ## 🍥 火の意志
 <p align="center">
-  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_github.gif" width="800" />
+  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_f5.gif" width="800" />
 </p>
 
 
