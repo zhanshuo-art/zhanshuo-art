@@ -41,15 +41,9 @@ jobs:
 
           # 输出文件配置
           outputs: |
-            dist/github-contribution-grid-snake-12cells-fixed.svg
-            dist/github-contribution-grid-snake-12cells-fixed-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-12cells-fixed-light.svg?palette=github-light
-
-          # 固定12个格子，颜色不同
-          grid_size: 12
-          grid_colors: |
-            #ff6347, #ff4500, #32cd32, #adff2f, #ffd700, #ff1493, #c71585, #0000ff, #8a2be2, #f0e68c, #90ee90, #ff8c00
-
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
         env:
           # 使用GitHub自动提供的Token进行认证
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -66,4 +60,3 @@ jobs:
         env:
           # 使用GitHub Token进行推送操作
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
