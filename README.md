@@ -19,22 +19,27 @@
 <div align="center">
 
 <!-- 贪吃蛇动图区域 -->
-## 🐍eat it, eat it
-
+<!-- 贪吃蛇动图区域 -->
+## 🐍 eat it, eat it
 <!--
   说明：这个动图会自动生成，显示一条贪吃蛇吃掉你的GitHub贡献记录
   第一次需要手动运行GitHub Action才能生成
   之后每天会自动更新
 -->
 
-![贪吃蛇动图](https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg)
+![贪吃蛇动图](https://raw.githubusercontent.com/zhanshuo-art/zhanshuo-art/output/github-contribution-grid-snake.svg)
+
+<!-- 如果贪吃蛇动图无法显示，请确保：
+     1. 已经运行了GitHub Action（在仓库的Actions标签页）
+     2. 已经将"你的用户名"替换为你的实际用户名
+     3. 等待几分钟让Action完成运行
+-->
 
 ---
-
 <!-- 火影忍者动图区域 -->
 ## 🍥 火の意志
 <p align="center">
-  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_github.gif" width="500" />
+  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_github.gif" width="800" />
 </p>
 
 
