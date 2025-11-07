@@ -38,7 +38,8 @@
 ---
 
 <!-- 火影忍者动图区域 -->
-## 🍥 Where the leaves dance, the fire will never die
+## 🍥 Where the leaves dance,<br>
+the fire will never die.
 <p align="center">
   <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_github.gif" width="500" />
 </p>
