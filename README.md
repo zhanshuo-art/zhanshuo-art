@@ -19,7 +19,7 @@
 <div align="center">
 
 <!-- 贪吃蛇动图区域 -->
-## 🐍吃掉我的GitHub
+## 🐍eat it, eat it
 
 <!--
   说明：这个动图会自动生成，显示一条贪吃蛇吃掉你的GitHub贡献记录
@@ -38,7 +38,7 @@
 ---
 
 <!-- 火影忍者动图区域 -->
-## 🍥 Naruto
+## 🍥 Where the leaves dance, the fire will never die
 <p align="center">
   <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_github.gif" width="500" />
 </p>
