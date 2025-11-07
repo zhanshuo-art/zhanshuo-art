@@ -27,12 +27,33 @@
   之后每天会自动更新
 -->
 
-![贪吃蛇动图](https://raw.githubusercontent.com/zhanshuo-art/zhanshuo-art/output/github-contribution-grid-snake.svg)
+# 固定12格贪吃蛇动画
 
-<!-- 如果贪吃蛇动图无法显示，请确保：
-     1. 已经运行了GitHub Action（在仓库的Actions标签页）
-     2. 已经将"zhanshuo-art"替换为你的实际用户名
-     3. 等待几分钟让Action完成运行
+这是一个固定显示12个格子且每个格子颜色不同的贪吃蛇动图。以下是格子的颜色：
+
+- 红色 (#ff6347)
+- 橙色 (#ff4500)
+- 绿色 (#32cd32)
+- 黄绿色 (#adff2f)
+- 金色 (#ffd700)
+- 粉红色 (#ff1493)
+- 紫色 (#c71585)
+- 蓝色 (#0000ff)
+- 紫罗兰色 (#8a2be2)
+- 浅黄色 (#f0e68c)
+- 浅绿色 (#90ee90)
+- 橙黄色 (#ff8c00)
+
+## 贪吃蛇动图展示
+
+在下面的区域，您将看到生成的贪吃蛇动画，它将显示固定的12个格子，每个格子的颜色按照上述顺序排列：
+
+![贪吃蛇动图](https://<username>.github.io/<repository-name>/dist/github-contribution-grid-snake-12cells-fixed.svg)
+
+## 关于生成过程
+
+此贪吃蛇动图通过GitHub Actions自动生成，每次执行时都会生成一个固定的12格贪吃蛇，格子颜色和顺序不随贡献数据变化而改变。此功能与GitHub贡献统计无关，而是为了展示一个固定的图案。
+
 -->
 
 ---
