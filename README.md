@@ -48,7 +48,7 @@
 
 在下面的区域，您将看到生成的贪吃蛇动画，它将显示固定的12个格子，每个格子的颜色按照上述顺序排列：
 
-![贪吃蛇动图](https://<username>.github.io/<repository-name>/dist/github-contribution-grid-snake-12cells-fixed.svg)
+![贪吃蛇动图](https://zhanshuo-art.github.io/zhanshuo-art/dist/github-contribution-grid-snake-12cells-fixed.svg)
 
 ## 关于生成过程
 
