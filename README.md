@@ -58,13 +58,6 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,git,linux,vscode" />
-</p>
-
----
-
 ### 🌀 Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
