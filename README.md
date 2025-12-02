@@ -43,16 +43,31 @@
 </p>
 
 
-### 📊 GitHub Stats
+## 📊 Stat Analysis
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&cache_seconds=1800" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=zhanshuo-art&theme=github-dark-blue&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Visitors&color=58a6ff&style=flat-square" />
-</p>
+  <!-- GitHub统计卡片 - 包含总星数、提交数、PR、Issues、贡献 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- 语言使用比例统计 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-artE&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+  <!-- GitHub连续贡献统计 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhanshuo-art&theme=radical&hide_border=false"/>
+
+</div>
+
+<div align="center">
+
+  <!-- 贡献活动图 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanshuo-art&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
 
 ---
 
