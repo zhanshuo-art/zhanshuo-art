@@ -43,22 +43,24 @@
 </p>
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+  ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhanshuo-art&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhanshuo-art&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zhanshuo-art&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
 ### 🌀 Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</div>
