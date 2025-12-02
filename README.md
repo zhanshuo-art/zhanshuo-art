@@ -47,15 +47,6 @@
 
 <div align="center">
 
-  <!-- GitHub统计卡片 - 包含总星数、提交数、PR、Issues、贡献 -->
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  
-  <!-- 语言使用比例统计 -->
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
-
 
   <!-- 贡献活动图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanshuo-art&theme=react-dark&hide_border=true&area=true"/>
