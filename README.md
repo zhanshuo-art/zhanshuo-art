@@ -47,6 +47,16 @@
 
 <div align="center">
 
+## 📊 GitHub 统计数据
+
+ <div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaoshuo-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide    
+  _border=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoshuo-art&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+  </div>
 
   <!-- 贡献活动图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanshuo-art&theme=react-dark&hide_border=true&area=true"/>
