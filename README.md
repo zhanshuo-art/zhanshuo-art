@@ -42,12 +42,21 @@
   <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_f5.gif" width="800" />
 </p>
 
-
+ <div align="center">
 ## 📊 Stata Analysis
 
- <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=dark" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&theme=dark" />
+      </td>
+    </tr>
+  </table>
 
-  [![](https://activity-graph.herokuapp.com/graph?username=zhanshuo-art&theme=github)](https://github.com/zhanshuo-art)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=zhanshuo-art&theme=dark&hide_border=false)
 
   </div>
 
@@ -60,6 +69,7 @@
 ---
 
 ### 🌀 Visitors
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
