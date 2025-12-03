@@ -51,10 +51,13 @@
 
  <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaoshuo-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide    
-  _border=true)
+  <!-- 主要统计数据 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=radical&include_all_commits=true&count_private=    
+  true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&ring_color=FF6B6B&cache_seconds=1800" alt="GitHub Stats" />
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoshuo-art&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  <!-- 语言使用统计 - 修正了用户名 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&theme=radical&hide_border=true&bg_color=0D1    
+  117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
   </div>
 
