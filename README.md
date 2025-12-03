@@ -45,19 +45,18 @@
 
 ## 📊 Stata Analysis
 
-<div align="center">
-
-## 📊 GitHub 统计数据
-
  <div align="center">
 
-  <!-- 主要统计数据 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art&show_icons=true&theme=radical&include_all_commits=true&count_private=    
-  true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D&text_color=C9D1D9&ring_color=FF6B6B&cache_seconds=1800" alt="GitHub Stats" />
+  ## 📈 GitHub 统计
 
-  <!-- 语言使用统计 - 修正了用户名 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&theme=radical&hide_border=true&bg_color=0D1    
-  117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  ![GitHub Stats](https://img.shields.io/github/followers/zhaoshuo-art?label=Followers&style=for-the-badge&color=blue)
+  ![GitHub Stats](https://img.shields.io/github/stars/zhaoshuo-art?label=Stars&style=for-the-badge&color=yellow)
+
+  ### 💻 常用语言
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
   </div>
 
