@@ -46,9 +46,22 @@
 
  <!-- 数据统计信息区域 -->  
 ## 📊 Stata Analysis
+<table>
+  <tr>
+    <td align="center">
+      <!-- 使用更稳定的服务 -->
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zhanshuo-art&show_icons=true&hide_border=true&theme=dark&cache_seconds=1800" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhanshuo-art&layout=compact&hide_border=true&theme=dark&cache_seconds=1800&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
+<!-- 添加备用统计（不可见但有助于缓存） -->
+<img height="0" width="0" src="https://github-readme-stats.vercel.app/api?username=zhanshuo-art" style="display:none;" />
 
-
+  <!-- 创作连续日期图 -->
   ![](https://github-readme-streak-stats.herokuapp.com/?user=zhanshuo-art&theme=dark&hide_border=false)
 
   </div>
