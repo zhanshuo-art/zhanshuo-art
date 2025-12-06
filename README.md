@@ -27,7 +27,7 @@
   之后每天会自动更新
 -->
 
-![Snake animation](https://raw.githubusercontent.com/zhansuo-art/zhanshuo-art/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/zhanshuo-art/zhanshuo-art/output/snake.svg)
 
 
 <!-- 如果贪吃蛇动图无法显示，请确保：
