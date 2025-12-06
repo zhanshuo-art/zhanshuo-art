@@ -32,16 +32,16 @@ jobs:
       - name: 检出仓库代码
         uses: actions/checkout@v3
 
-      # 步骤2：生成贪吃蛇动图（彩虹主题）
+      # 步骤2：生成贪吃蛇动图（海洋主题）
       - name: 生成贪吃蛇贡献图
         uses: Platane/snk/svg-only@v3
         with:
           # 自动获取当前仓库所有者的用户名（不需要手动修改）
           github_user_name: ${{ github.repository_owner }}
 
-          # 输出文件配置 - 彩虹配色方案
+          # 输出文件配置 - 海洋配色方案
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#7400b8&color_dots=#ffd60a,#fca311,#e85d04,#dc2f02,#9d0208
+            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           # 使用GitHub自动提供的Token进行认证
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -58,8 +58,3 @@ jobs:
         env:
           # 使用GitHub Token进行推送操作
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-#   - 如果动图不显示，检查output分支是否已创建
-#   - 确保README.md中的用户名已正确替换
-#   - 可以在Actions页面查看详细的运行日志
-# ============================================
