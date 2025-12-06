@@ -51,9 +51,9 @@ jobs:
           # ================================================
 
           outputs: |
-            dist/snake.svg?color_snake=#87CEEB&color_dots=#2A2D3A,#B8A4D4,#9D7FBF,#7B5FA7,#5A3D8F
-            dist/snake-dark.svg?palette=github-dark&color_snake=#87CEEB&color_dots=#21262D,#B8A4D4,#9D7FBF,#7B5FA7,#5A3D8F
-            dist/snake-light.svg?palette=github-light&color_snake=#4A90E2&color_dots=#F6F8FA,#D4C5E8,#B8A4D4,#9D7FBF,#7B5FA7
+            dist/snake.svg?color_snake=#87CEEB&color_dots=#EDEDED,#B8A4D4,#9D7FBF,#7B5FA7,#5A3D8F
+            dist/snake-dark.svg?palette=github-dark&color_snake=#87CEEB&color_dots=#EDEDED,#B8A4D4,#9D7FBF,#7B5FA7,#5A3D8F
+            dist/snake-light.svg?palette=github-light&color_snake=#4A90E2&color_dots=#EDEDED,#D4C5E8,#B8A4D4,#9D7FBF,#7B5FA7
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -115,3 +115,4 @@ jobs:
 # 按照 背景,淡色,浅色,中色,深色 的顺序修改
 #
 # ============================================
+
