@@ -27,7 +27,7 @@
   之后每天会自动更新
 -->
 
-![贪吃蛇动图](https://raw.githubusercontent.com/zhanshuo-art/zhanshuo-art/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg)
 
 
 <!-- 如果贪吃蛇动图无法显示，请确保：
