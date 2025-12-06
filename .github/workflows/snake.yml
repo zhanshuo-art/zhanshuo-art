@@ -1,4 +1,4 @@
-  name: Generate Snake Animation
+name: Generate Snake Animation
 
 # ==================== 触发条件 ====================
 on:
@@ -29,34 +29,15 @@ jobs:
         uses: actions/checkout@v3
 
       # 步骤 2: 生成贪吃蛇动图
+      # （注意：把长注释/配色说明放在 with: 之外以避免解析风险）
       - name: 生成贪吃蛇贡献图
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-
-          # ==================== 颜色配置 ====================
-          # 配色方案：天蓝蛇 + 紫色渐变 🐍💜
-          #
-          # 颜色说明：
-          # - 背景色：     #1A1D29 (深灰蓝，能看到格子)
-          # - 蛇的颜色：   #87CEEB (天蓝色)
-          # - 贡献渐变：   淡紫 → 浅紫 → 中紫 → 深紫 → 浓紫
-          #
-          # 贡献点颜色详解（从低到高）：
-          # #2A2D3A - 深灰蓝背景（无贡献，淡淡可见）
-          # #B8A4D4 - 淡紫色（少量贡献）
-          # #9D7FBF - 浅紫色（中等贡献）
-          # #7B5FA7 - 中紫色（较多贡献）
-          # #5A3D8F - 深紫色（大量贡献）
-          # ================================================
-
           outputs: |
             dist/snake.svg?color_snake=#0A1A3A&color_dots=#EDEDED,#B8A4D4,#9D7FBF,#7B5FA7,#5A3D8F
             dist/snake-dark.svg?palette=github-dark&color_snake=#0A1A3A&color_dots=#EDEDED,#B8A4D4,#9D7FBF,#7B5FA7,#5A3D8F
             dist/snake-light.svg?palette=github-light&color_snake=#0A1A3A&color_dots=#EDEDED,#D4C5E8,#B8A4D4,#9D7FBF,#7B5FA7
-
-
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -70,53 +51,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 # ============================================
-#   配色方案说明
+#   配色方案说明（注释放到文件尾部，便于阅读，不在 with: 内）
 # ============================================
 #
-# 🎨 当前配色：天蓝蛇 + 紫色渐变
+# 🎨 当前配色：天蓝蛇 + 紫色渐变（但蛇色已更换为深蓝 #0A1A3A）
 #
 # 蛇的颜色：
-# #87CEEB - 天蓝色（Sky Blue）
+# #0A1A3A - 深夜蓝（已替换）
 #
 # 贡献点渐变（紫色系）：
-# 1️⃣ #2A2D3A - 深灰蓝（背景，淡淡可见格子）
-# 2️⃣ #B8A4D4 - 淡紫色
-# 3️⃣ #9D7FBF - 浅紫色
-# 4️⃣ #7B5FA7 - 中紫色
-# 5️⃣ #5A3D8F - 深紫色
+# #EDEDED - 浅灰（背景格子）
+# #B8A4D4 - 淡紫色
+# #9D7FBF - 浅紫色
+# #7B5FA7 - 中紫色
+# #5A3D8F - 深紫色
 #
 # ============================================
-#   其他推荐配色方案
-# ============================================
-#
-# 🌸 方案 2：天蓝蛇 + 粉紫渐变（更柔和）
-# color_snake=#87CEEB
-# color_dots=#2A2D3A,#E0BBE4,#D291BC,#C77DFF,#9D4EDD
-#
-# 🌊 方案 3：天蓝蛇 + 蓝紫渐变（冷色调）
-# color_snake=#87CEEB
-# color_dots=#2A2D3A,#B8B5FF,#9B8FFF,#7B68EE,#5B4FD8
-#
-# 🦄 方案 4：天蓝蛇 + 梦幻紫渐变（高对比）
-# color_snake=#87CEEB
-# color_dots=#1E1E2E,#CDB4DB,#BF9FD4,#A78BCA,#7B2CBF
-#
-# 💎 方案 5：天蓝蛇 + 宝石紫渐变（华丽）
-# color_snake=#87CEEB
-# color_dots=#2A2D3A,#DDA0DD,#BA55D3,#9932CC,#6A0DAD
-#
-# ============================================
-#   快速修改指南
-# ============================================
-#
-# 修改蛇的颜色：
-# 找到 color_snake=#87CEEB，替换为你想要的颜色
-#
-# 修改贡献点渐变：
-# 找到 color_dots=#2A2D3A,#B8A4D4,#9D7FBF,#7B5FA7,#5A3D8F
-# 按照 背景,淡色,浅色,中色,深色 的顺序修改
-#
-# ============================================
-
-
-
