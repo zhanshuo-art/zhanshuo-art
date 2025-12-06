@@ -55,7 +55,7 @@ jobs:
           # ================================================
 
           outputs: |
-            dist/snake.svg?color_snake=#00E5FF&color_dots=#0D1117,#00B4D8,#0096C7,#0077B6,#023E8A
+            dist/snake.svg?color_snake=#00E5FF&color_dots=#0A0127,#00B4D8,#0096C7,#0077B6,#023E8A
             dist/snake-dark.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#161B22,#00B4D8,#0096C7,#0077B6,#023E8A
             dist/snake-light.svg?palette=github-light&color_snake=#00B4D8&color_dots=#F0F6FC,#90E0EF,#48CAE4,#00B4D8,#0077B6
 
@@ -135,3 +135,4 @@ jobs:
 #    刷新 README 查看效果
 #
 # ============================================
+
