@@ -36,7 +36,7 @@
      3. 等待几分钟让Action完成运行
 -->
 
-  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_beauty.gif" width="800" />
+  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_beauty.gif" width="1000" />
 </p>
  <div align="center">
 
@@ -68,11 +68,12 @@
 </div>
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-</div>
-
-
-  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_game.gif" width="800" />
+  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_game.gif" width="1000" />
 </p>
  <div align="center">
+
+
+<!--<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</div>
+-->
