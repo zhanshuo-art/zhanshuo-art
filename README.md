@@ -36,13 +36,8 @@
      3. 等待几分钟让Action完成运行
 -->
 
----
-<!-- 火影忍者动图区域 -->
-## 🍥 火の意志
-<p align="center">
-  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_home.gif" width="800" />
+  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_beauty.gif" width="800" />
 </p>
-<!--图片这个链接也可以换成这个，这个是宇智波"https://github.com/zhanshuo-art/zhanshuo-art/blob/main/Naruto_f5.gif" -->
  <div align="center">
 
  <!-- 数据统计信息区域 -->  
@@ -76,3 +71,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
+
+
+  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_game.gif" width="800" />
+</p>
+ <div align="center">
