@@ -77,3 +77,23 @@
   <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
 -->
+
+
+<!--自我介绍可以仿照这个来，正好左侧是文字，右侧是图片
+### 🌟 About Me
+
+<img align="right" width="200" src="./585c770090908c98c761dc6cd26d1218.jpg" />
+
+<p>&emsp;&emsp;Hi, I'm <strong>Tim</strong>. I harbor a deep passion for literature, travel, and video games.</p>
+<p>&emsp;&emsp;My technical ambition is to <strong>architect a bespoke operating system from scratch</strong></p>
+<p>&emsp;&emsp; — encompassing the kernel, CPU architecture, compiler design, and network stack.</p>
+<p>&emsp;&emsp;<em>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</em></p>
+
+
+  <!-- for beauty 留个空行好看点 
+  <div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+-->
