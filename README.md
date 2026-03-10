@@ -84,6 +84,8 @@
 
 
 ### 🛰️ <em>Let's jump to lightspeed and begin our galactic journey
+<table width="100%" style="border-collapse: collapse; border-style: hidden;">
+  <tr>
 
   <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_game.gif" width="1000" />
 </p>
