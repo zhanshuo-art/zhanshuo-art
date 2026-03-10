@@ -41,7 +41,7 @@
 <table width="100%" style="border-collapse: collapse; border-style: hidden;">
   <tr>
     <!-- 左侧自我介绍 (66.6%) -->
-    <td width="66.6%" valign="middle" style="border: none; color: #003366; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6;">
+    <td width="66.6%" valign="middle" style="border: none; color: #003366; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; font-size: 20px;">
       <p>&emsp;&emsp;Hi, I'm <strong>zhanshuo hu</strong>, born in 2006. I'm an optimistic and cheerful guy who enjoys cycling, playing table tennis and chatting with people from all over.
       <p>&emsp;&emsp;I am pursuing a double degree in Data Science and Marketing Management in RUC. My academic ambition is to bridge the gap between<strong> AI and Optimization</strong> --- exploring new frontiers in intelligent decision-making and cross-disciplinary research.</p>
       <p>&emsp;&emsp;<em>We're making the world a better place, and all I want to do is keep trying to do better.</em></p>
