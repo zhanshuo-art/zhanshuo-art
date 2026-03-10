@@ -20,7 +20,7 @@
 
 <!-- 贪吃蛇动图区域 -->
 <!-- 贪吃蛇动图区域 -->
-## 🐍 eat it, eat it
+
 <!--
   说明：这个动图会自动生成，显示一条贪吃蛇吃掉你的GitHub贡献记录
   第一次需要手动运行GitHub Action才能生成
@@ -35,11 +35,23 @@
      2. 已经将"你的用户名"替换为你的实际用户名
      3. 等待几分钟让Action完成运行
 -->
+### 🌟 About Me
+<table>
+  <tr>
+    <td width="80%" valign="middle">
+      <h2>zhanshuo Hu | China</h2>
+      <h3>Renmin University of China | Data Science & Marketing Management </h3>
+      <h3>Research Interests | AI & Optimization </h3>
+    </td>
+    <td width="20%" valign="middle" align="center">
+      <!-- 请将下方的 src 替换为你自己的竖版图片链接 -->
+      <img src="你的图片链接.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_beauty.gif" width="1000" />
-</p>
- <div align="center">
 
+---
  <!-- 数据统计信息区域 -->  
 ## 📊 Stata Analysis
 <table>
