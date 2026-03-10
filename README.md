@@ -90,7 +90,7 @@
 <table width="100%" style="border-collapse: collapse; border-style: hidden;">
   <tr>
 
-  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_star.gif" width="1000" />
+  <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_star.gif?raw=true" width="100%" style="display: block;">
 </p>
  <div align="center">
 
