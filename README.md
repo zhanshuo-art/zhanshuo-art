@@ -94,6 +94,15 @@
 </p>
  <div align="center">
 
+  <p>
+    <a href="mailto:GarrettWatson7260@outlook.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/zhanshuo-art">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 <!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
