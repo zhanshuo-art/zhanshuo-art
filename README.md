@@ -36,24 +36,43 @@
      3. 等待几分钟让Action完成运行
 -->
 ### 🌟 About Me
-<table>
+<table width="100%">
   <tr>
-    <td width="80%" valign="middle">
+    <!-- 左侧自我介绍 (66.6%) -->
+    <td width="66.6%" valign="middle">
       <h2>zhanshuo Hu | China</h2>
-      <h3>Renmin University of China | Data Science & Marketing Management </h3>
-      <h3>Research Interests | AI & Optimization </h3>
+      <h3>Renmin University of China | Data Science & Marketing Management</h3>
+      <h3>Research Interests | AI & Optimization</h3>
     </td>
-    <td width="20%" valign="middle" align="center">
-      <!-- 请将下方的 src 替换为你自己的竖版图片链接 -->
-      <img src="你的图片链接.jpg" width="100%">
+    <!-- 右侧竖版图片 (33.4%) -->
+    <td width="33.4%" valign="middle" align="center">
+      <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/star_hope.gif" width="100%">
+    </td>
+  </tr>
+</table>
+
+### 🌟 About Me
+
+<table width="100%" style="border-collapse: collapse; border-style: hidden;">
+  <tr>
+    <!-- 左侧自我介绍 (66.6%) -->
+    <td width="66.6%" valign="middle" style="border: none; color: #003366; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6;">
+      <p>&emsp;&emsp;Hi, I'm <strong>zhanshuo hu</strong>, born in 2006. I am pursuing a double degree in Data Science and Marketing Management in RUC. 
+      <p>&emsp;&emsp;My academic ambition is to bridge the gap between<strong> AI and Optimization</strong> --- exploring new frontiers in intelligent decision-making and cross-disciplinary research.</p>
+      <p>&emsp;&emsp;<em>We're making the world a better place, and all I want to do is keep trying to do better.</em></p>
+    </td>
+    <!-- 右侧图片 (33.4%) -->
+    <td width="33.4%" valign="middle" align="center" style="border: none;">
+      <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/star_hope.gif?raw=true" width="100%" style="display: block;">
     </td>
   </tr>
 </table>
 
 
----
+
+
  <!-- 数据统计信息区域 -->  
-## 📊 Stata Analysis
+### 📊 Stata Analysis
 <table>
   <tr>
     <td align="center">
