@@ -35,21 +35,6 @@
      2. 已经将"你的用户名"替换为你的实际用户名
      3. 等待几分钟让Action完成运行
 -->
-### 🌟 About Me
-<table width="100%">
-  <tr>
-    <!-- 左侧自我介绍 (66.6%) -->
-    <td width="66.6%" valign="middle">
-      <h2>zhanshuo Hu | China</h2>
-      <h3>Renmin University of China | Data Science & Marketing Management</h3>
-      <h3>Research Interests | AI & Optimization</h3>
-    </td>
-    <!-- 右侧竖版图片 (33.4%) -->
-    <td width="33.4%" valign="middle" align="center">
-      <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/star_hope.gif" width="100%">
-    </td>
-  </tr>
-</table>
 
 ### 🌟 About Me
 
@@ -57,8 +42,8 @@
   <tr>
     <!-- 左侧自我介绍 (66.6%) -->
     <td width="66.6%" valign="middle" style="border: none; color: #003366; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6;">
-      <p>&emsp;&emsp;Hi, I'm <strong>zhanshuo hu</strong>, born in 2006. I am pursuing a double degree in Data Science and Marketing Management in RUC. 
-      <p>&emsp;&emsp;My academic ambition is to bridge the gap between<strong> AI and Optimization</strong> --- exploring new frontiers in intelligent decision-making and cross-disciplinary research.</p>
+      <p>&emsp;&emsp;Hi, I'm <strong>zhanshuo hu</strong>, born in 2006. I'm an optimistic and cheerful guy who enjoys cycling, playing table tennis and chatting with people from all over.
+      <p>&emsp;&emsp;I am pursuing a double degree in Data Science and Marketing Management in RUC. My academic ambition is to bridge the gap between<strong> AI and Optimization</strong> --- exploring new frontiers in intelligent decision-making and cross-disciplinary research.</p>
       <p>&emsp;&emsp;<em>We're making the world a better place, and all I want to do is keep trying to do better.</em></p>
     </td>
     <!-- 右侧图片 (33.4%) -->
@@ -67,7 +52,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
@@ -99,10 +83,11 @@
 </div>
 
 
+### 🛰️ <em>Let's jump to lightspeed and begin our galactic journey
+
   <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/github_game.gif" width="1000" />
 </p>
  <div align="center">
-
 
 <!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=zhanshuo-art&label=Profile%20views&color=0e75b6&style=for-the-badge" />
