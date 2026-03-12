@@ -53,6 +53,26 @@
   </tr>
 </table>
 
+### 🌟 About Me
+
+<table width="100%">
+  <tr>
+    <td width="66.6%" valign="middle">
+      <h3>
+        &emsp;&emsp;Hi, I'm <strong>zhanshuo hu</strong>, born in 2006. I'm an optimistic and cheerful guy who enjoys cycling, playing table tennis and chatting with people from all over.
+      </h4>
+      <h4>
+        &emsp;&emsp;I am pursuing a double degree in Data Science and Marketing Management in RUC. My academic ambition is to bridge the gap between <strong>AI and Economics</strong> — exploring new frontiers in intelligent decision-making and cross-disciplinary research.
+      </h4>
+      <h4>
+        &emsp;&emsp;<em>We're making the world a better place, and all I want to do is keep trying to do better.</em>
+      </h4>
+    </td>
+    <td width="33.4%" valign="middle" align="center">
+      <img src="https://github.com/zhanshuo-art/zhanshuo-art/blob/main/star_hope.gif?raw=true" width="100%">
+    </td>
+  </tr>
+</table>
 
 
  <!-- 数据统计信息区域 -->  
