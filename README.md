@@ -79,11 +79,9 @@
   ![](https://github-readme-streak-stats-eight.vercel.app/?user=zhanshuo-art&theme=dark&hide_border=false)
 
   </div>
-
   <!-- 贡献活动图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanshuo-art&theme=react-dark&hide_border=true&area=true"/>
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanshuo-art&theme=react-dark&hide_border=true&area=true"/>
 
-</div>
 
 
 <h3 align="center">
